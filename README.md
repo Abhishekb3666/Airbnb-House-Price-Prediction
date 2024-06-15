@@ -55,9 +55,3 @@ The project provides insights into the Airbnb market in NYC, highlighting key di
 
 ## Conclusion
 The notebook concludes with a summary of findings and potential areas for further analysis.
-
-## Author
-[Your Name]
-
-## License
-This project is licensed under the MIT License.
