@@ -1,4 +1,4 @@
-# Airbnb Final Project
+# Airbnb-House-Price-Prediction
 
 ## 1. Introduction
 This project focuses on analyzing Airbnb data for New York City. The objective is to explore the data, gain insights, and apply data science techniques to understand patterns and trends within different boroughs of NYC.
